@@ -1,2 +1,2 @@
-# react-example
-Examples built in React and Redux
+# react-seed
+Seed application for React JS + ESLint + webpack
